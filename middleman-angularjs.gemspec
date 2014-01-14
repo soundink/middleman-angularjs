@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "middleman-angularjs"
   spec.version       = Middleman::Angularjs::VERSION
   spec.authors       = ["lizhe"]
-  spec.email         = ["mark.geek.lee@gmail.com"]
+  spec.email         = ["lizhe@soundink.cn"]
   spec.description   = %q{assets of angularjs for middleman}
   spec.summary       = %q{assets of angularjs for middleman}
-  spec.homepage      = "https://github.com/markee/middleman-angularjs"
+  spec.homepage      = "https://github.com/soundink/middleman-angularjs"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
